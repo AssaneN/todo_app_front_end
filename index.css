@@ -1,5 +1,10 @@
+html{
+    font-family: sans-serif;
+}
+
+
 body {
-    background-color: yellow
+    background-color: lightblue
     ;
 }
 h1 {
@@ -10,3 +15,28 @@ body {
     color: blue
     
 }
+a:hover{
+    background-color: green;
+}
+span{
+    color:red;
+}
+pomodoro-estimate{
+    color:red;
+    font-weight: bold
+    font-size:14px;
+    background-color: #F5F5F5;
+    padding: 5px 10px 5px 10px;
+    border-radius: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
